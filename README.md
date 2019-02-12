@@ -8,5 +8,7 @@ The work by Gatys et al. introduced to the world a method for extracting texture
 
 ## Examples
 
-Original texture: 
+Original texture: ![alt text](https://raw.githubusercontent.com/mateoren/texture-synthesis/master/examples/origin.png)
+
+Extracted texture: ![alt text](https://raw.githubusercontent.com/mateoren/texture-synthesis/master/examples/final_texture.png)
 
