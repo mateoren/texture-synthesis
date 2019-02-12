@@ -12,3 +12,6 @@ Original texture: ![alt text](https://raw.githubusercontent.com/mateoren/texture
 
 Extracted texture: ![alt text](https://raw.githubusercontent.com/mateoren/texture-synthesis/master/examples/final_texture.png)
 
+## Authors
+
+Mateo Rendón Jaramillo & Ricardo Falcón Pérez
